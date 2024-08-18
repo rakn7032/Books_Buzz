@@ -24,15 +24,15 @@
     SECRET_KEY='django-insecure-fgi*9*)xsd=p=^d)$a*5b%ms^9efm4e*(7ybwk65xl3!u4+g1)'
    
     DB_ENGINE='django.db.backends.postgresql'
-    DB_NAME='books_buzz'
-    DB_USER='admin1'
-    DB_PASSWORD='admin@123'
+    DB_NAME= # DB name
+    DB_USER= # DB user
+    DB_PASSWORD= # password
     DB_HOST='localhost'
     DB_PORT='5432'
     
-    DEFAULT_FROM_EMAIL='ravilla.anil3@gmail.com'  # your mail
-    EMAIL_HOST_USER='ravilla.anil3@gmail.com'  # your mail
-    EMAIL_HOST_PASSWORD='kgcg wjng cpiv yfxb'  # your App password
+    DEFAULT_FROM_EMAIL= # your mail
+    EMAIL_HOST_USER= # your mail
+    EMAIL_HOST_PASSWORD= # your App password
     EMAIL_PORT=587
     EMAIL_USE_TLS=True
 
